@@ -4,6 +4,23 @@ title: Contact
 permalink: /contact/
 ---
 
+<div class="carte-de-visite">
+<img src="http://www.armosc.com/images/armosc-260x99.png" alt="logo armosc" class="media-object img-rounded" width="185"> <strong>Bureau [Office]</strong>
+<h3><a href="/email.php" target="_blank">Jean-Paul Figer</a></h3>
+<p>23 rue d'Anjou - 75008 PARIS - FRANCE</p>
+<p><a href="/email.php" target="_blank">Envoyer un message électronique</a> <br> Tel:  +331 75 43 19 30<br> Fax: +331 75 43 19 31<br><a href="callto://jfiger"> </a><br> <a href="/signature_electronique.htm">Ma signature électronique PGP</a> <br> <img src="http://wwp.icq.com/scripts/online.dll?icq=9796237&amp;img=5" alt="icone ICQ" class="media-object img-rounded" width="18"> <a href="http://wwp.icq.com/9796237" target="_blank">ICQ: 9796237</a></p>
+</div>
+<div class="carte-de-visite">
+<strong>Chez moi [At home]</strong>
+<h3><a href="/email.php" target="_blank">Jean-Paul Figer</a></h3>
+135 Boulevard Raspail - 75006 Paris - France<br> <a href="http://goo.gl/maps/ljSo" target="_blank">Voir le Plan</a> <br> GEO N 48° 50' 36" E 002° 19' 42<br> <a href="/email.php" target="_blank"> Envoyer un message électronique</a> <br>Tel: +331 4544 3569<br> Fax: +339 5755 3569 <br> <a href="/signature_electronique.htm">Ma signature électronique PGP</a> <br> <img src="http://wwp.icq.com/scripts/online.dll?icq=720494&amp;img=5" alt="icone ICQ" class="media-object img-rounded" width="18"> <a href="http://wwp.icq.com/720494" target="_blank">ICQ:720494</a> <br> sip:jfiger@sip.figer.net</div>
+<div class="carte-de-visite">
+<strong>Mobile</strong>
+<h3><a href="/email.php" target="_blank">Jean-Paul Figer</a></h3>
+<a href="/email.php" target="_blank"> Envoyer un message électronique</a> <br> <a href="/email.php?name=SMS" target="_blank">Envoyer un message SMS</a> <br> Mobile: +336 07 48 61 39<br> Fax: +331 75 43 19 31<br> <a href="/signature_electronique.htm">Ma signature électronique PGP</a> <br> <img src="http://wwp.icq.com/scripts/online.dll?icq=24785888&amp;img=5" alt="icone ICQ" class="media-object img-rounded" width="18"> <a href="http://wwp.icq.com/24785888" target="_blank">ICQ: 24785888</a> <br> sip:jfiger@sip.figer.net</div>
+</div>
+</div>
+</div>
 <div id="content-left" class="left-column">
 
 <div class="error" id="error">
