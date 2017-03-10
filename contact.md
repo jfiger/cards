@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<div class="carte-de-visite">
+<div class="jumbotron">
 <img src="http://www.armosc.com/images/armosc-260x99.png" alt="logo armosc" class="media-object img-rounded" width="185"> <strong>Bureau [Office]</strong>
 <h3><a href="/email.php" target="_blank">Jean-Paul Figer</a></h3>
 <p>23 rue d'Anjou - 75008 PARIS - FRANCE</p>
